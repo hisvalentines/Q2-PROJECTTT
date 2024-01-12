@@ -1,0 +1,51 @@
+
+      body { 
+            background-image:url(skyy.jpeg);
+            background-repeat: no-repeat;
+            background-size: 1500px;
+            font-family: Rubik Scribble;
+            color: #3b3b3b;
+               }
+       
+        .header {
+               color: 7a7468;
+               background-image: url(phil.webp);
+               padding: 3px;
+               margin: 20px;
+               border: 2px solid black;
+               text-align: center;
+            } 
+
+      img {
+         height: 250px;
+         length: 300px;
+      }
+      section {
+         column-gap: 10px;
+            display: flex;
+            justify-content: center;
+            row-gap: 5px;
+            column-gap: 10px;
+            padding:5px;
+            text-align: center;
+            flex-wrap: wrap;
+
+      }
+
+         .box { 
+            border: 3px black;
+               background-color: whitesmoke;
+               margin: 15px;
+               padding:10px;
+               length: 300px;
+               width: 250px;
+               display: inline-block;
+          } 
+
+          h1 {
+            color: black;
+          }
+
+          .footer {
+            background-color: #ada49a;
+          }
